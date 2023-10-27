@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-MaxNonoverlappingSegments", "Codility-MaxNonoverlappingSegments\Codility-MaxNonoverlappingSegments.csproj", "{B289B654-8C79-4319-BB5C-42792A5563AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-MaxNonoverlappingSegmentsTests", "Codility-MaxNonoverlappingSegmentsTests\Codility-MaxNonoverlappingSegmentsTests.csproj", "{731A924A-4A4C-4BD3-968F-0FA667F86ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B289B654-8C79-4319-BB5C-42792A5563AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B289B654-8C79-4319-BB5C-42792A5563AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B289B654-8C79-4319-BB5C-42792A5563AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B289B654-8C79-4319-BB5C-42792A5563AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731A924A-4A4C-4BD3-968F-0FA667F86ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731A924A-4A4C-4BD3-968F-0FA667F86ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731A924A-4A4C-4BD3-968F-0FA667F86ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731A924A-4A4C-4BD3-968F-0FA667F86ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB1566D-51B0-42E8-B004-CFE63F25AC7E}
+	EndGlobalSection
+EndGlobal
